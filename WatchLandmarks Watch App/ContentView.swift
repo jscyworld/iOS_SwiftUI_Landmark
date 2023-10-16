@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  WatchLandmarks Watch App
 //
-//  Created by yanadoo on 2023/10/16.
+//  Created by Sirius Kim on 2023/10/16.
 //
 
 import SwiftUI
